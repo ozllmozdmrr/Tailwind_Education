@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.btn {
+    @apply bg-white px-4 h-12 inline-flex items-center rounded-xl hover:text-fuchsia-100 text-xl
+}
